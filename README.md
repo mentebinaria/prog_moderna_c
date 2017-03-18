@@ -1,2 +1,4 @@
-# prog_moderna_c
-Repositório com exemplos do curso "Programação Moderna em C"
+Programação Moderna em C
+==========================
+
+Repositório das aulas do curso [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE), um treinamento online gratuito em vídeo que aborda a linguagem C de uma maneira moderna e prática.
