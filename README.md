@@ -12,3 +12,5 @@ Aulas publicadas:
 [Aula 2: Variáveis booleanas e do tipo char](https://www.youtube.com/watch?v=UF9YDhM_aq4)
 
 [Aula 3: Variáveis do tipo int](https://www.youtube.com/watch?v=GJoGD0HM6mE)
+
+[Aula 4: Variáveis do tipo float](https://www.youtube.com/watch?v=7J83DWILXSc)
