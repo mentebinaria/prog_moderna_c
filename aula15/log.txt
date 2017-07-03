@@ -1,0 +1,1 @@
+ERRO: o num1 eh menor que 1
