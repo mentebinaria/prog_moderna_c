@@ -1,0 +1,4 @@
+
+static void funcao(void) {
+
+}
